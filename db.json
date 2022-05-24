@@ -45,21 +45,97 @@
     "PAGE_SUCCESS__IMG_2": "https://i.imgur.com/WEpgtLF.png",
     "_": "_"
   },
-  "posts": [
+  "packages": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "ELEC_WATER_HEATER_HEAT_PUMP",
+      "PKG_CARD__IS_RECOMMENDED": true,
+      "PKG_CARD__IMAGE": "https://imgur.com/e5BIpW2.png",
+      "PKG_CARD__VARIANT": "green",
+      "PKG_CARD__FOOTER": "REBATE <br /> AVAILABLE!",
+      "PKG_INFO__TITLE": "1 ELECTRIC HEAT PUMP WATER HEATER",
+      "PKG_INFO__IMAGE": "https://i.imgur.com/YZi9pdd.png",
+      "PKG_INFO__DESC": "ELEC_WATER_HEATER_HEAT_PUMP Heat pump water heaters are the most efficient way to heat water for your home, with double the efficiency of even the best conventional water heaters. Heat pumps work just like your refrigerator, only instead of removing heat from their interior, they extract heat from the air surrounding the water heater and add it to the water in the tank.",
+      "PKG_INFO__LEARN_MORE": "Download a US Dept of Energy Fact Sheet",
+      "PKG_INFO__PRO_TIPS__PARAGRAPH": "When selecting a Heat Pump Water Heater look for:",
+      "PKG_INFO__PRO_TIPS__LIST_ITEMS": [
+        "1Efficiency of UEF 2.9 or more",
+        "2Heat pump water heaters can be automatically controlled to only use energy during off-peak times. Look for units with connected 'demand controls' for additional savings!"
+      ],
+      "PKG_INFO__OUR_ASSUMPTIONS__FROM_IMG": "https://i.imgur.com/jMEYOHI.png",
+      "PKG_INFO__OUR_ASSUMPTIONS__FROM_DECR": "Natural Gas Tanked 60 gal. Std. efficiency 75% [10-15 yrs old]",
+      "PKG_INFO__OUR_ASSUMPTIONS__TO_IMG": "https://i.imgur.com/YZi9pdd.png",
+      "PKG_INFO__OUR_ASSUMPTIONS__TO_DECR": "Heat Pump Tanked ${GAL_NUMBER} gal. High efficiency UFE ${UFE_NUMBER}"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": "SOLAR",
+      "PKG_CARD__IS_RECOMMENDED": true,
+      "PKG_CARD__IMAGE": "https://imgur.com/fvaXhoZ.png",
+      "PKG_CARD__IS_REBATE": false,
+      "PKG_CARD__FOOTER": "REBATE <br /> AVAILABLE!",
+      "PKG_CARD__VARIANT": "green",
+      "PKG_INFO__TITLE": "SOLAR PANEL"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "id": "hvac",
+      "PKG_CARD__IS_RECOMMENDED": true,
+      "PKG_CARD__IMAGE": "https://imgur.com/e5BIpW2.png",
+      "PKG_CARD__VARIANT": "green",
+      "PKG_CARD__FOOTER": "INCREASES <br /> COMFORT!",
+      "PKG_INFO__TITLE": "2 hvac HEAT PUMP",
+      "PKG_INFO__IMAGE": "https://i.imgur.com/YZi9pdd.png",
+      "PKG_INFO__DESC": "hvac Heat pump water heaters are the most efficient way to heat water for your home, with double the efficiency of even the best conventional water heaters. Heat pumps work just like your refrigerator, only instead of removing heat from their interior, they extract heat from the air surrounding the water heater and add it to the water in the tank.",
+      "PKG_INFO__LEARN_MORE": "Download a US Dept of Energy Fact Sheet",
+      "PKG_INFO__PRO_TIPS__PARAGRAPH": "When selecting a Heat Pump Water Heater look for:",
+      "PKG_INFO__PRO_TIPS__LIST_ITEMS": [
+        "1Efficiency of UEF 2.9 or more",
+        "2Heat pump water heaters can be automatically controlled to only use energy during off-peak times. Look for units with connected 'demand controls' for additional savings!"
+      ],
+      "PKG_INFO__OUR_ASSUMPTIONS__FROM_IMG": "https://i.imgur.com/jMEYOHI.png",
+      "PKG_INFO__OUR_ASSUMPTIONS__FROM_DECR": "Natural Gas Tanked 60 gal. Std. efficiency 75% [10-15 yrs old]",
+      "PKG_INFO__OUR_ASSUMPTIONS__TO_IMG": "https://i.imgur.com/YZi9pdd.png",
+      "PKG_INFO__OUR_ASSUMPTIONS__TO_DECR": "Heat Pump Tanked ${GAL_NUMBER} gal. High efficiency UFE ${UFE_NUMBER}"
+    },
+    {
+      "id": 4,
+      "PKG_CARD__IMAGE": "https://imgur.com/znHIMIW.png",
+      "PKG_CARD__IS_RECOMMENDED": false,
+      "PKG_CARD__FOOTER": "INCREASES <br /> COMFORT!",
+      "PKG_CARD__VARIANT": "blue"
+    },
+    {
+      "id": 5,
+      "imageSrc": "windows.png",
+      "PKG_CARD__IMAGE": "https://imgur.com/kltFZp9.png",
+      "PKG_CARD__VARIANT": "blue",
+      "PKG_CARD__FOOTER": "INCREASES <br /> COMFORT!"
+    },
+    {
+      "id": 6,
+      "PKG_CARD__IMAGE": "https://imgur.com/aXHRgiJ.png",
+      "PKG_CARD__IS_RECOMMENDED": true,
+      "PKG_CARD__VARIANT": "blue",
+      "PKG_CARD__FOOTER": "D.I.Y <br/> OPTION"
+    },
+    {
+      "id": 7,
+      "PKG_CARD__IMAGE": "https://imgur.com/q6lMOAd.png",
+      "PKG_CARD__IS_RECOMMENDED": false,
+      "PKG_CARD__VARIANT": "blue",
+      "PKG_CARD__FOOTER": "HIGH <br/> EFFICIENCY "
+    },
+    {
+      "id": 8,
+      "PKG_CARD__IMAGE": "https://imgur.com/u2qhXRY.png",
+      "PKG_CARD__IS_RECOMMENDED": false,
+      "PKG_CARD__VARIANT": "blue",
+      "PKG_CARD__FOOTER": "INCREASES <br/> COMFORT"
+    },
+    {
+      "id": 9,
+      "PKG_CARD__IMAGE": "https://imgur.com/1wOUWL1.png",
+      "PKG_CARD__IS_RECOMMENDED": false,
+      "PKG_CARD__VARIANT": "blue",
+      "PKG_CARD__FOOTER": "INCREASES <br/> COMFORT"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
