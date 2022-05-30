@@ -1,6 +1,6 @@
 ## Try it
 
-[API USERS](https://my-json-server.typicode.com/dipenparmar12/demo/cms)
+[API USERS](https://my-json-server.typicode.com/dipenparmar12/demo/users)
 
 [API CMS](https://my-json-server.typicode.com/dipenparmar12/demo/cms)
 
