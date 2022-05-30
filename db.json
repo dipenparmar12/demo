@@ -138,11 +138,20 @@
       "PKG_CARD__FOOTER": "INCREASES <br/> COMFORT"
     }
   ],
+  
   "users": [
     {
       "id": 1,
-      "token": "d@d.d",
-      "email": "d@d.d",
+      "token": "TOKEN__d@d.com",
+      "email": "d@d.com",
+      "name": "d com",
+      "password": "123123",
+      "created_at": "2018-01-01 00:00:00"
+    },
+    {
+      "id": 3,
+      "token": "d@d.dd",
+      "email": "d@d.dd",
       "name": "d com",
       "password": "123123",
       "created_at": "2018-01-01 00:00:00"
@@ -154,6 +163,22 @@
       "name": "dipen tempr",
       "password": "123123",
       "created_at": "2012-01-01 00:00:00"
+    },
+    {
+      "id": 5,
+      "token": "TOKEN__dipen@tempr.email",
+      "email": "dd@dd.dd",
+      "name": "dipen tempr",
+      "password": "123123",
+      "created_at": "2012-01-01 00:00:00"
+    },
+    {
+      "id": 4,
+      "token": "d@tempr.email",
+      "email": "d@tempr.email",
+      "name": "d com",
+      "password": "123123",
+      "created_at": "2018-01-01 00:00:00"
     }
   ]
 }
