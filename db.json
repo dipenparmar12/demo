@@ -137,5 +137,23 @@
       "PKG_CARD__VARIANT": "blue",
       "PKG_CARD__FOOTER": "INCREASES <br/> COMFORT"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "token": "d@d.d",
+      "email": "d@d.d",
+      "name": "d com",
+      "password": "123123",
+      "created_at": "2018-01-01 00:00:00"
+    },
+    {
+      "id": 2,
+      "token": "TOKEN__dipen@tempr.email",
+      "email": "dipen@tempr.email",
+      "name": "dipen tempr",
+      "password": "123123",
+      "created_at": "2012-01-01 00:00:00"
+    }
   ]
 }
